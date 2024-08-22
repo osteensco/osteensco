@@ -6,10 +6,10 @@
 <tr>
 <td>
 👋Hi, my name is Scott and I like to write software.
-<br><br>
-Working on open source.
+<br><br><br><br>
+Mostly working on backend.
 <br>
-Pursuing mastery.
+
 <br><br>
   
 ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
