@@ -12,11 +12,11 @@ Mostly working on backend stuff and developer tools.
 
   ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=six_months&group=other&compact=True&theme=dark)
   
-
+![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
 </td>
 <td>
   
-  ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
+  
 
 ![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_month&group=other&theme=dark)
   
