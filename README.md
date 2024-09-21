@@ -12,7 +12,7 @@ Mostly working on backend stuff and developer tools.
 
   ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=six_months&group=other&compact=True&theme=dark)
   
-![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
+
 </td>
 <td>
   
@@ -34,7 +34,10 @@ Mostly working on backend stuff and developer tools.
   <br>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
+  <br>
+  <br>
   
+  ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
 </td>
 
 </tr>
