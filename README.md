@@ -25,10 +25,13 @@ Mostly working on backend stuff and developer tools.
 <td>
   <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=py" />
+  <br>
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=js" />
+  <br>
   <img src="https://skillicons.dev/icons?i=lua" />
   <img src="https://skillicons.dev/icons?i=bash" />
+  <br>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   
