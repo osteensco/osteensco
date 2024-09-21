@@ -13,6 +13,7 @@ Mostly working on backend.
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&loc_metric=changed&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
 </td>
