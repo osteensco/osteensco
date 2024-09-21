@@ -16,15 +16,22 @@ Mostly working on backend stuff and developer tools.
 </td>
 <td>
   
-  
-
 ![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_month&group=other&theme=dark)
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
-
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=lua" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  
 </td>
 
 </tr>
