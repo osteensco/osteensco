@@ -10,8 +10,8 @@
 Mostly working on backend stuff and developer tools.
 <br><br>
 
-  ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=six_months&group=other&compact=True&theme=dark)
-  
+  ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&group=other&compact=True&theme=dark)
+ 
 
 </td>
 <td>
