@@ -5,7 +5,7 @@
 </tr>
 <tr>
 <td>
-👋Hi, my name is Scott and I like to write software.
+👋 Hi, my name is Scott and I like to write software.
 <br><br>
 Mostly working on backend stuff and developer tools.
 <br><br>
