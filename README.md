@@ -10,13 +10,13 @@
 Mostly working on backend stuff and developer tools.
 <br><br>
 
-  ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&group=other&compact=True&theme=dark&raw=true)
+  ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
  
 
 </td>
 <td>
   
-![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&group=other&theme=dark&raw=true)
+![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&theme=dark&raw=true)
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 -->
