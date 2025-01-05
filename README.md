@@ -7,9 +7,11 @@
 <td width="33%">
 👋 Hi, my name is Scott and I like to write software.
 <br><br>
+  <br><br>
 Mostly working on backend stuff and developer tools.
 <br><br>
-
+<br><br>
+<br>
   
   ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
   
