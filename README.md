@@ -44,8 +44,8 @@ Mostly working on backend stuff and developer tools.
 
 <td align="center" width="33%">
   
-![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&theme=dark&raw=true)
-  
+![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&group=other&theme=dark&raw=true)
+
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </td>
