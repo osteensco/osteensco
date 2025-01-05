@@ -14,7 +14,7 @@ Mostly working on backend stuff and developer tools.
   ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
   
 </td>
-<td width="33%">
+<td align="center" width="33%">
 
 
 
@@ -24,11 +24,12 @@ Mostly working on backend stuff and developer tools.
   <img src="https://skillicons.dev/icons?i=py" />
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=js" />
+  <br>
   <img src="https://skillicons.dev/icons?i=lua" />
   <img src="https://skillicons.dev/icons?i=bash" />
-  <br>
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=redis" />
+  <br>
   <img src="https://skillicons.dev/icons?i=sqlite" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=aws" />
