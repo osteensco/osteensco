@@ -9,36 +9,40 @@
 <br><br>
 Mostly working on backend stuff and developer tools.
 <br><br>
-
-  ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
- 
-
-</td>
-<td>
-  
-![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&theme=dark&raw=true)
-  
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-</td>
-<td>
   <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=py" />
-  <br>
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=js" />
   <br>
   <img src="https://skillicons.dev/icons?i=lua" />
   <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=redis" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=neovim" />
   <br>
   <br>
   
   ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
+  
 </td>
+<td>
+
+![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
+![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&theme=dark&raw=true)
+  
+</td>
+
+<!-- 
+<td> 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+-->
 
 </tr>
 </table>
