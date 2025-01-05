@@ -14,7 +14,7 @@ Mostly working on backend stuff and developer tools.
   ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
   
 </td>
-<td align="center" width="33%">
+<td width="33%">
 
 
 
