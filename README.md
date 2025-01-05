@@ -4,7 +4,7 @@
 <th>  </th> -->
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 👋 Hi, my name is Scott and I like to write software.
 <br><br>
 Mostly working on backend stuff and developer tools.
@@ -28,20 +28,23 @@ Mostly working on backend stuff and developer tools.
   ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
   
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
+
 ![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&theme=dark&raw=true)
+![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
+
   
 </td>
 
-<!-- 
-<td> 
 
+<td align="center" width="33%">
+  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
--->
+
 
 </tr>
 </table>
