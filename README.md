@@ -24,10 +24,10 @@ Mostly working on backend stuff and developer tools.
 
   <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=py" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <br>
   <img src="https://skillicons.dev/icons?i=lua" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=redis" />
