@@ -36,17 +36,18 @@ Mostly working on backend stuff and developer tools.
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=neovim" />
-
+ <!--
 ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
-  
+  -->
 </td>
 
 
 <td align="center" width="33%">
-  
-![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&group=other&theme=dark&raw=true)
 
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats) -->
+ <!--
+![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&group=other&theme=dark&raw=true)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
 
 </td>
 
