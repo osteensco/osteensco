@@ -5,13 +5,13 @@
 </tr>
 <tr>
 <td width="33%">
+  <br><br>
 👋 Hi, my name is Scott and I like to write software.
 <br><br>
   <br><br>
 Mostly working on backend stuff and developer tools.
 <br><br>
 <br><br>
-<br>
   
   ![](https://komarev.com/ghpvc/?username=osteensco&color=blueviolet&abbreviated=true&style=plastic)
   
@@ -39,17 +39,21 @@ Mostly working on backend stuff and developer tools.
  <!--
 ![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
   -->
+  
+<!-- 
 </td>
 
 
 <td align="center" width="33%">
 
- <!--
+
 ![](https://api.githubtrends.io/user/svg/osteensco/repos?time_range=one_year&group=other&theme=dark&raw=true)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
 
-</td>
+</td> 
+
+-->
 
 
 </tr>
