@@ -1,7 +1,6 @@
 <table>
 <tr>
-<!-- <th>  </th>
-<th>  </th> -->
+
 </tr>
 <tr>
 <td width="33%">
@@ -18,10 +17,6 @@ Mostly working on backend stuff and developer tools.
 </td>
 <td align="center" width="33%">
 
-
-
-
-
   <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=py" />
   <img src="https://skillicons.dev/icons?i=lua" />
@@ -36,17 +31,22 @@ Mostly working on backend stuff and developer tools.
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=neovim" />
- <!--
-![](https://api.githubtrends.io/user/svg/osteensco/langs?time_range=one_year&compact=True&theme=dark&raw=true)
-  -->
-  
 
+
+
+  
+  
+  
 </td>
 
 
 <td align="center" width="33%">
-
+  
+  <a href="https://github.com/sahilatahar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osteensco&theme=tokyonight"/></a>
+  <a href="https://github.com/sahilatahar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osteensco&theme=tokyonight"/></a>
+<!--
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=osteensco&theme=tokyonight&hide=jupyter+notebook&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 </td> 
 
